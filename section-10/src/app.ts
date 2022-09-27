@@ -1,4 +1,3 @@
-// Code goes 
 //* template html tag (check what is it later);
 import { ProjectInput } from './components/project-input.js';
 import { ProjectList } from './components/project-list.js';
